@@ -21,14 +21,14 @@ This is a project of life game using pair programming in ThoughtWorks Xi'an.
 
 ## TODO LIST
 
-[ ] Git repo
-[ ] Webpack + Antd + ES6... build
-[ ] Game core logic
-[ ] UI
-[ ] Initialize game
-[ ] Antimated
-[ ] Complicated
-[ ] More
+* [X] Git repo
+* [X] Webpack + Antd + ES6... build
+* [X] Game core logic
+* [X] UI
+* [X] Initialize game
+* [ ] Antimated
+* [ ] Complicated
+* [ ] More
 
 ## Techs
 
