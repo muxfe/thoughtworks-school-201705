@@ -1,0 +1,25 @@
+{
+  "name": "life-game",
+  "version": "0.0.9",
+  "description": "a life game with pair programming in ThoughtWorks Xian",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muxfe/thoughtworks-school-201705.git"
+  },
+  "keywords": [
+    "life-game",
+    "ThoughtWorks",
+    "pair-programming"
+  ],
+  "author": "muxfe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muxfe/thoughtworks-school-201705/issues"
+  },
+  "homepage": "https://github.com/muxfe/thoughtworks-school-201705#readme"
+}
